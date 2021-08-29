@@ -1,0 +1,33 @@
+C: Ruta de acceso -analizar</-->;
+Nodo.js path.pavse (pathstring) ponyfill
+Intaler
+$ npm install --save path-parse
+uso
+var pathParse=requiere ("path-parse");
+PahtParse("/home/user/dir/file.txt");
+//=< {
+// root: "/"
+// dir : "/home/user/dir";
+// base: "file.txt";
+   ext: "t.xt"
+   name: "file"
+   >Instaler
+   > npm i path-parse
+
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "daily"
+      (schedule.day <'lunes, martes, miercoles../>;
+      /<"revierwers asisignes labels"/>;
+      /<user valores predertimados)__ Open-pull requests-limit/>;
+      dependebot.yml costante/contifuracion/actualizar/open day/
+      </(Target branch) -opertion>;
+      
